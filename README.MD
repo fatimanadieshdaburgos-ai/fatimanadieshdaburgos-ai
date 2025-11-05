@@ -1,11 +1,15 @@
-<img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="130" align="left"/>
+<img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="140" align="left"/>
+
+<div style="margin-left: 160px;">
 
 ## Hola! Soy **Fátima** 👋
 
-Soy estudiante de **Ingeniería en Sistemas** y desarrolladora orientada al diseño y al desarrollo web.  
-Me gusta crear interfaces funcionales, proyectos creativos y aprender nuevas tecnologías constantemente.
+Soy estudiante de **Ingeniería en Sistemas** y **Diseñadora**.  
+Me gusta crear interfaces funcionales, proyectos creativos y aprender nuevas tecnologías constantemente.  
 
-<br><br>
+</div>
+
+<br><br><br>
 
 ---
 
@@ -24,13 +28,4 @@ Me gusta crear interfaces funcionales, proyectos creativos y aprender nuevas tec
 ### 🛠️ Herramientas
 <span>
  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
- <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
- <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
- <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
- <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
- <img src="https://img.shields.io/badge/Strapi-4945ff?style=for-the-badge&logo=strapi&logoColor=white" />
-</span>
-
----
-
-⭐ *Siempre aprendiendo, creando y compartiendo.*  
+ <img src="https://img.shields.io/
