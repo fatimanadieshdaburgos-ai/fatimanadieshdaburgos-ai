@@ -1,4 +1,16 @@
 <img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="140" align="left"/>
+<div style="display:flex; align-items:center; gap:190px;">
+
+<img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="150"/>
+
+<div>
+  <h2>Hola! Soy <strong>Fátima</strong> 👋</h2>
+  <p>Soy estudiante de <strong>Ingeniería en Sistemas</strong> y <strong>Diseñadora</strong>.</p>
+  <p>Me gusta crear interfaces funcionales, proyectos creativos y aprender nuevas tecnologías constantemente.</p>
+</div>
+
+</div>
+
 
 <div style="margin-left: 160px;">
 
