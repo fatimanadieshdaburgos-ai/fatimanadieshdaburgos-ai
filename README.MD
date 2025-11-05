@@ -24,4 +24,29 @@
 <span>
  <img src="https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white" />
  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</span>
+
+<hr style="border: 1.5px solid #C6A7F5; border-radius: 8px;" />
+
+<!-- Herramientas -->
+<h3 style="color:#C6A7F5;">🛠 Herramientas</h3>
+
+<span>
+ <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+ <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+ <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+ <img src="https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
+ <img src="https://img.shields.io/badge/Strapi-4945ff?style=for-the-badge&logo=strapi&logoColor=white" />
+</span>
+
+<hr style="border: 1.5px solid #C6A7F5; border-radius: 8px;" />
+
+<!-- Firma kawaii -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jaadee/jaadee/main/assets/cute-line.gif" width="300"><br>
+  <em>Gracias por visitar mi perfil ✨🌸<br>Te envío un lindo dia 💗</em>
+</p>
