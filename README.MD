@@ -1,9 +1,9 @@
-<table border="0">
-  <tr>
-    <td style="padding-right: 30px;">
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none; padding-right: 25px; vertical-align: middle;">
       <img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="150">
     </td>
-    <td>
+    <td style="border: none; vertical-align: middle;">
       <h2>Hola! Soy <strong>Fátima</strong> 👋</h2>
       <p>Soy estudiante de <strong>Ingeniería en Sistemas</strong> y <strong>Diseñadora</strong>.</p>
       <p>Me gusta crear interfaces funcionales, proyectos creativos y aprender nuevas tecnologías constantemente.</p>
