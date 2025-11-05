@@ -1,6 +1,6 @@
-<table>
+<table border="0">
   <tr>
-    <td width="180">
+    <td style="padding-right: 30px;">
       <img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="150">
     </td>
     <td>
@@ -10,7 +10,6 @@
     </td>
   </tr>
 </table>
-
 
 
 ---
