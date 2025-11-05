@@ -4,9 +4,9 @@
       <img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="150">
     </td>
     <td style="border: none; vertical-align: middle;">
-      <h2>Hola! Soy <strong>Fátima</strong> 👋</h2>
-      <p>Soy estudiante de <strong>Ingeniería en Sistemas</strong> y <strong>Diseñadora</strong>.</p>
-      <p>Me gusta crear interfaces funcionales, proyectos creativos y aprender nuevas tecnologías constantemente.</p>
+      <h2 style="font-size: 28px; font-weight: 600;">🌸 ¡Hola! Soy <strong>Fátima</strong> ✨</h2>
+      <p>🌷 Estudiante de <strong>Ingeniería en Sistemas</strong> y <strong>Diseñadora</strong> con amor por lo visual.</p>
+      <p>💗 Me encanta crear interfaces lindas, proyectos creativos y aprender nuevas tecnologías.</p>
     </td>
   </tr>
 </table>
