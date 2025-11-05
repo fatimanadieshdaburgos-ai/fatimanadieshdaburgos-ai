@@ -48,5 +48,5 @@
 <!-- Firma kawaii -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/jaadee/jaadee/main/assets/cute-line.gif" width="300"><br>
-  <em>Gracias por visitar mi perfil ✨🌸<br>Te envío un lindo dia 💗</em>
+  <em>Gracias por visitar mi perfil ✨🌸<br>Ten un lindo dia 💗</em>
 </p>
