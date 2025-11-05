@@ -1,4 +1,4 @@
-<img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="150" align="left"/>
+<img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="130" align="left"/>
 
 ## Hola! Soy **Fátima** 👋
 
