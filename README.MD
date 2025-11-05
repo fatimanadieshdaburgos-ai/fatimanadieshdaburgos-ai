@@ -13,17 +13,6 @@
 
 
 
-<div style="margin-left: 160px;">
-
-## Hola! Soy **Fátima** 👋
-
-Soy estudiante de **Ingeniería en Sistemas** y **Diseñadora**.  
-Me gusta crear interfaces funcionales, proyectos creativos y aprender nuevas tecnologías constantemente.  
-
-</div>
-
-<br><br><br>
-
 ---
 
 ### 🧠 Lenguajes
